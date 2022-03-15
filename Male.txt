@@ -1,5 +1,7 @@
-chiranjeevi
-kalyan
-ntr
-raviteja
-nani
+1.chiranjeevi
+2.kalyan
+3.ntr
+4.raviteja
+5.nani
+6.maheshbabu
+7.vijaya devarakonda
